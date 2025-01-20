@@ -12,14 +12,14 @@ Prerequisites
 ```bash
 git clone https://github.com/ManosDaskalelis/Db_Actions_App.git
 ```
-Open the Project:
-Use Visual Studio or any other C# IDE.
-Open the .sln file in the repository root.
-Restore NuGet Packages:
-In Visual Studio, go to Tools > NuGet Package Manager > Manage NuGet Packages for Solution and restore any missing packages.
-Configure the Database:
-Update the appsettings.json file with your database connection details.
-Running the Application
-Build the project in your IDE.
-Run the application.
-Use the provided interface to perform database operations like querying, inserting, and modifying data.
+2. Open the Project:
+- Use Visual Studio or any other C# IDE.
+- Open the .sln file in the repository root.
+3. Restore NuGet Packages:
+- In Visual Studio, go to Tools > NuGet Package Manager > Manage NuGet Packages for Solution and restore any missing packages.
+4. Configure the Database:
+- Update the appsettings.json file with your database connection details.
+### Running the Application
+1. Build the project in your IDE.
+2. Run the application.
+3. Use the provided interface to perform database operations like querying, inserting, and modifying data.
