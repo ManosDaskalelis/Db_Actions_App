@@ -3,15 +3,15 @@
 
 
 
-Getting Started
+### Getting Started
 Prerequisites
-.NET Framework or .NET Core SDK installed on your system. Download the latest version from Microsoft's .NET website.
-A supported database system (e.g., SQL Server, MySQL, PostgreSQL).
-Installation
+- .NET Framework or .NET Core SDK installed on your system. Download the latest version from Microsoft's .NET website.
+- A supported database system (e.g., SQL Server, MySQL, PostgreSQL).
+### Installation
 Clone the Repository:
-bash
-Copy
-Edit
+1- bash
+1- Copy
+1- Edit
 ```
 git clone https://github.com/ManosDaskalelis/Db_Actions_App.git
 ```
