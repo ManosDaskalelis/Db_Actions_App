@@ -8,13 +8,9 @@ Prerequisites
 - .NET Framework or .NET Core SDK installed on your system. Download the latest version from Microsoft's .NET website.
 - A supported database system (e.g., SQL Server, MySQL, PostgreSQL).
 ### Installation
-Clone the Repository:
-```
- bash
- Copy
- Edit
+1. Clone the Repository:
+```bash
 git clone https://github.com/ManosDaskalelis/Db_Actions_App.git
-```
 Open the Project:
 Use Visual Studio or any other C# IDE.
 Open the .sln file in the repository root.
