@@ -11,6 +11,7 @@ Prerequisites
 1. Clone the Repository:
 ```bash
 git clone https://github.com/ManosDaskalelis/Db_Actions_App.git
+```
 Open the Project:
 Use Visual Studio or any other C# IDE.
 Open the .sln file in the repository root.
