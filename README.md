@@ -9,10 +9,10 @@ Prerequisites
 - A supported database system (e.g., SQL Server, MySQL, PostgreSQL).
 ### Installation
 Clone the Repository:
-1- bash
-1- Copy
-1- Edit
 ```
+ bash
+ Copy
+ Edit
 git clone https://github.com/ManosDaskalelis/Db_Actions_App.git
 ```
 Open the Project:
